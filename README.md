@@ -4,7 +4,7 @@ base32
 Base32 Encoder/Decoder for PHP according to RFC 4648
 
 [![Build Status](https://secure.travis-ci.org/ChristianRiesen/base32.svg)](http://travis-ci.org/ChristianRiesen/base32)
-[![HHVM Status](http://hhvm.h4cc.de/badge/christian-riesen/base32.svg)](http://hhvm.h4cc.de/package/christian-riesen/base32)
+[![HHVM Status](http://hhvm.h4cc.de/badge/christian-riesen/base32.svg?style=flat)](http://hhvm.h4cc.de/package/christian-riesen/base32)
 
 [![Latest Stable Version](https://poser.pugx.org/christian-riesen/base32/v/stable.png)](https://packagist.org/packages/christian-riesen/base32) [![Total Downloads](https://poser.pugx.org/christian-riesen/base32/downloads.png)](https://packagist.org/packages/christian-riesen/base32) [![Latest Unstable Version](https://poser.pugx.org/christian-riesen/base32/v/unstable.png)](https://packagist.org/packages/christian-riesen/base32) [![License](https://poser.pugx.org/christian-riesen/base32/license.png)](https://packagist.org/packages/christian-riesen/base32)
 
