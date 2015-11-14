@@ -34,13 +34,7 @@ class Base32
      */
     private static function chunk($binaryString, $bits)
     {
-        $binaryString = chunk_split($binaryString, $bits, ' ');
-
-        if (substr($binaryString, (strlen($binaryString)) - 1)  == ' ') {
-            $binaryString = substr($binaryString, 0, strlen($binaryString)-1);
-        }
-
-        return explode(' ', $binaryString);
+        return str_split($binaryString, $bits);
     }
 
     /**
